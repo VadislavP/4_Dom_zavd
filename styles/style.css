@@ -1,0 +1,50 @@
+.main_element {
+    background: pink;
+    width: 1200px;
+    margin: 0 auto;
+    border: 2px solid red;
+    color: black;
+}
+
+h1 {
+    color: blue;
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    border: 2px dotted coral;
+}
+
+h3 {
+    color: blueviolet;
+    text-align: center
+}
+
+h2.red_head {
+    color: red;
+}
+
+.orang_bg {
+    background-color: orange;
+}
+
+.yellow_bg {
+    background-color: yellow;
+}
+
+.green_bg {
+    background-color: lime;
+}
+
+p {
+    color: rgb(53, 13, 211);
+    font-size: 24px;
+    text-align: justify;
+    line-height: 1.2;
+    font-weight: 700;
+    background-color: yellow;
+    margin: 24px 340px;
+    padding: 30px 50px;
+    border: 10px solid rgb(0, 255, 47)
+}
